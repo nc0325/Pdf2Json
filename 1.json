@@ -1,0 +1,109 @@
+{
+  "JSON_creation_date_time": "15/01/2024 15.38",
+
+  "document_date": "Catalogue for Sale on Monday, January, 15, 2024",
+
+  "source_pdf_pages": "31",
+
+  "vehicles": [
+    {
+      "lot": "10203",
+
+      "registration": "SL64RZJ",
+
+      "make_model": "MERCEDES-BENZ A180 BLUE-CY AMG SPORT CD -",
+
+      "colour": "White",
+
+      "mileage": "85,327",
+
+      "row": "OBOL",
+
+      "running_order": "(1)",
+
+      "registration_date": "17/11/2014",
+
+      "body_type": "5 Door Hatchback",
+
+      "location": "Glasgow",
+
+      "mileage_warranty": "Warranted",
+
+      "fuel_type": "Diesel",
+
+      "v5_location": "V5 - HERE",
+
+      "MOT": "16/11/2024",
+
+      "owners": "Four Owners",
+
+      "previous_registration": "D17LAK",
+
+      "service_history": "Service History - 6 stamp(s)",
+
+      "extras": "~Extras~ Air Con, Climate, Cruise Control, Alloy Wheels, Sat Nav, Bluetooth ~",
+
+      "supplier": "Main Agent",
+
+      "at_retail": "8779",
+
+      "price_CAP_retail": "7800",
+
+      "price_clean": "5825",
+
+      "price_average": "5100",
+
+      "price_below": "4375"
+    },
+
+    {
+      "lot": "10222",
+
+      "registration": "SC65SBX",
+
+      "make_model": "RENAULT CAPTUR DYNAMIQUE NAV DCI - 1461cc",
+
+      "colour": "Blue/cream",
+
+      "mileage": "65,353",
+
+      "row": "2",
+
+      "running_order": "(2)",
+
+      "registration_date": "25/11/2015",
+
+      "body_type": "5 Door Hatchback",
+
+      "location": "Glasgow",
+
+      "mileage_warranty": "Warranted",
+
+      "fuel_type": "Diesel",
+
+      "v5_location": "V5 - HERE",
+
+      "MOT": "19/10/2024",
+
+      "owners": "Four Owners",
+
+      "previous_registration": "K123WLS",
+
+      "service_history": "6 stamp(s)",
+
+      "extras": "~Extras~ Air Con, Climate, Cruise Control, Alloy Wheels, Sat Nav, Bluetooth ~",
+
+      "supplier": "Main Agent",
+
+      "at_retail": "6788",
+
+      "price_CAP_retail": "6400",
+
+      "price_clean": "4600",
+
+      "price_average": "3900",
+
+      "price_below": "3225"
+    }
+  ]
+}
